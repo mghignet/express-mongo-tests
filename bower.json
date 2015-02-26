@@ -1,0 +1,21 @@
+{
+  "name": "random-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mghignet/learning-js-ecosystem",
+  "authors": [
+    "Maxime Ghignet <maxime.ghignet@ineat-conseil.fr>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "lodash": "~3.3.1"
+  }
+}
